@@ -2,5 +2,5 @@ spring:
   application:
     name: test
 server:
-  port: 8888
+  port: 8999
 appname: aaa
