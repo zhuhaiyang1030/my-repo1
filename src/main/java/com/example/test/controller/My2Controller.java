@@ -9,6 +9,6 @@ public class My2Controller {
     @GetMapping("/hello2")
     public String hello() {
 
-        return "111";
+        return "222";
     }
 }
