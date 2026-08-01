@@ -3,3 +3,4 @@ spring:
     name: test
 server:
   port: 8080
+appname: aaa
